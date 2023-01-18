@@ -14,7 +14,7 @@ Features-
 Continuous movement of the clouds.
 Continuous movement of the house.
 After right key pressing the scenery goes from day to night. There will be a Moon in the sky & no clouds will be seen.
-After left key pressing the scenery goes from night to day(previous state).
+After left key pressing the scenery goes from night to day.
 
 <!---Project Folder-The "Debug" folder under "bin" directory contains the music of the project named as "marriedlife2.wav".--->
 
